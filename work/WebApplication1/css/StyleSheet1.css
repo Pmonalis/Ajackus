@@ -1,0 +1,30 @@
+﻿
+html {
+  background-color: #f2f4f8;
+  overflow-x: hidden;
+}
+
+body {
+
+
+}
+
+.input-color {
+   
+    background-color: black !important;
+}
+.button {
+    border-color:red!important;
+
+}
+
+.font{
+    font-weight:600 !important;
+    font-size: medium !important;
+}
+  
+
+
+
+
+
